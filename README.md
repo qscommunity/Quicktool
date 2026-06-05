@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="/wiki/Rules">Rules</a>
+  <a href="/quicktool/Information/wiki/Rules">Rules</a>
   ·
-  <a href="/wiki/Badges">Badges</a>
+  <a href="/quicktool/Information/wiki/Badges">Badges</a>
   ·
   <a href="#contributing">Contributing</a>
 </p>
@@ -68,7 +68,7 @@ Rules are discussed and improved openly.
 
 ## Rules
 
-Check out the [Rules](/wiki/Rules) file for more information.
+Check out the [Rules](/quicktool/Information/wiki/Rules) file for more information.
 
 # Badges
 
