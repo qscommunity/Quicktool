@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="#rules">Rules</a>
+  <a href="/wiki/Rules">Rules</a>
   ·
-  <a href="#badges">Badges</a>
+  <a href="/wiki/Badges">Badges</a>
   ·
   <a href="#contributing">Contributing</a>
 </p>
@@ -68,8 +68,7 @@ Rules are discussed and improved openly.
 
 ## Rules
 
-Check out the [Rules.md](Rules.md) file for more information.
-
+Check out the [Rules](/wiki/Rules) file for more information.
 
 # Badges
 
